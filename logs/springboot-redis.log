@@ -1,0 +1,7 @@
+2021-01-05 22:40:59 INFO   --- [main] c.l.s.SpringbootredisApplication : Starting SpringbootredisApplication using Java 11.0.8 on Hasan with PID 15180 (G:\Office-BABL\Ehcache-with-SpringBoot\target\classes started by 15101 in G:\Office-BABL\Ehcache-with-SpringBoot)
+2021-01-05 22:40:59 INFO   --- [main] c.l.s.SpringbootredisApplication : The following profiles are active: dev
+2021-01-05 22:41:07 INFO   --- [main] c.z.h.HikariDataSource : HikariPool-1 - Starting...
+2021-01-05 22:41:07 INFO   --- [main] c.z.h.HikariDataSource : HikariPool-1 - Start completed.
+2021-01-05 22:41:11 WARN   --- [main] n.s.e.c.ConfigurationFactory : No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/15101/.m2/repository/net/sf/ehcache/ehcache/2.10.4/ehcache-2.10.4.jar!/ehcache-failsafe.xml
+2021-01-05 22:41:11 WARN   --- [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-01-05 22:41:12 INFO   --- [main] c.l.s.SpringbootredisApplication : Started SpringbootredisApplication in 13.651 seconds (JVM running for 14.732)
